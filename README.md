@@ -2,4 +2,4 @@
 参考人工智能的各种资料和各方的知识总结做的关于人工智能的思维导图，这里面也参考很多网上相关博客的资料，这里没有一一例举出来，感谢这些博主们总结和公开的知识。
 
 思维导图包括：
-人工智能历史（https://github.com/mo-ai/mindmap-ai-cn/blob/master/images/1.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%8E%86%E5%8F%B2.png）
+- [人工智能历史](https://github.com/mo-ai/mindmap-ai-cn/blob/master/images/1.%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%8E%86%E5%8F%B2.png)
