@@ -24,4 +24,9 @@
 - [社会治理智能化](https://github.com/mo-ai/mindmap-ai-cn/blob/master/images/%E7%B3%BB%E5%88%972/S2-8.%20%E7%A4%BE%E4%BC%9A%E6%B2%BB%E7%90%86%E6%99%BA%E8%83%BD%E5%8C%96.png)
 
 
-#### 算法系列：
+#### 算法系列1：
+
+#### 其他：
+- [人工智能知识体系2](https://github.com/mo-ai/mindmap-ai-cn/blob/master/images/%E5%85%B6%E4%BB%96/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB2.png)
+- [人工智能产品](https://github.com/mo-ai/mindmap-ai-cn/blob/master/images/%E5%85%B6%E4%BB%96/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BA%A7%E5%93%81.png)
+
