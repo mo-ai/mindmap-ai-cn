@@ -25,6 +25,7 @@
 
 
 #### 算法系列1：
+- [机器学习算法](https://github.com/mo-ai/mindmap-ai-cn/blob/master/images/%E7%AE%97%E6%B3%95%E7%B3%BB%E5%88%971/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95.png)
 
 #### 其他：
 - [人工智能知识体系2](https://github.com/mo-ai/mindmap-ai-cn/blob/master/images/%E5%85%B6%E4%BB%96/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB2.png)
